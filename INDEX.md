@@ -19,7 +19,7 @@ Format: `- [Recipe Name](recipes/yourlastname.md) — one short phrase. *(Your N
 
 - [Roasted Butternut Squash Pasta](recipes/skrutvold.md) — perfect fall recipe when hosting. *(Aerionna Skrutvold)*
 
-- [Veggie Buckle](recipes/evans.md) — vegetable loaded dish. *(Hali Evans)*
+- [Vegan Pumpkin Pasta with Sage](recipes/geer.md) — delicious creamy pasta dish. *(Maisie Geer)*
 
 - [Gyeran Bap](recipes/leggitt.md) — super easy Korean egg and rice dish *(John Leggitt)*
 
